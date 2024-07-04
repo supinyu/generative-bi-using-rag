@@ -6,7 +6,7 @@ const CustomTopNavigation = () => {
     <TopNavigation
       identity={{
         href: "#",
-        title: "制造业BI数据查询助手",
+        title: "Guidance for Generative BI on Amazon Web Services",
         logo: {
           src: "/Amazoncom-yellow-arrow.png",
           alt: "amazon icon",
